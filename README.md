@@ -1,6 +1,14 @@
 # Lyrical Literacy
 Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Research*
 
+## Mission Statement
+
+**Lyrical Literacy is exercise for the brain.** "Use it or lose it" is the mantra of biological systems. Just as people who train only their upper body become injury-prone and physically imbalanced, the same principle applies to cognitive development. Despite its proven benefits, singing is often cut from school curricula. Through tongue twisters, lullabies, and nursery rhymes, we teach language by singing basic vocabulary and survival phrases, engaging multiple brain regions simultaneously to create balanced cognitive development.
+
+## Abstract
+
+**Lyrical Literacy:** Enhancing Cognitive Development through Music and AI. Humanitarians AI Incorporated supports the "Lyrical Literacy" project through both the Fellows Program and technical expertise to harness AI for promoting cognitive and language development through singing. We mentor emerging researchers and provide technical guidance to develop AI-powered tools, songbooks, and interactive platforms that encourage daily engagement with music. Our involvement focuses on leveraging AI to personalize song recommendations, analyze user engagement, and create accessible resources, including hundreds of public domain and simple songs available on SoundCloud. By integrating neuroscience research with AI, we help ensure that the project maximizes its impact on language acquisition, memory enhancement, and overall brain health for diverse populations.
+
 ## Project Overview
 
 **Lyrical Literacy** is a pioneering initiative from Humanitarians AI that harnesses artificial intelligence to enhance cognitive and language development through music. This research-based program explores the powerful intersection of neuroscience, music, and education to create personalized learning experiences for diverse populations.
@@ -100,7 +108,3 @@ This comprehensive survey examines the profound influence of musical training an
 
 ### Abstract
 This comprehensive survey examines the profound relationship between music and literacy, with particular emphasis on how musical interventions can enhance reading comprehension and memory retention. The integration of music into educational practices offers multisensory experiences that benefit all learners, with exceptional advantages for those with learning differences such as dyslexia, attention-deficit/hyperactivity disorder (ADHD), and autism spectrum disorder (ASD). Recent advancements in artificial intelligence have further expanded possibilities for personalized music-based learning. This survey synthesizes current research, presents illustrative case studies, and offers practical recommendations for educators and researchers.
-
-
-
-
