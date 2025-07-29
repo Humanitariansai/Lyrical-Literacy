@@ -1,0 +1,1730 @@
+# Meta Tags
+
+## Primary Styles
+
+### Vocal/Overall Styles
+- **Lullaby:** Traditional lullaby, modern lullaby, folk lullaby, children's lullaby, jazz lullaby
+- **Acoustic Country:** Traditional country, Nashville sound, outlaw country, country folk, Americana, country blues, Texas country, bluegrass country
+- **Banjo:** Bluegrass banjo, clawhammer banjo, old-time banjo, three-finger picking, Scruggs style
+- **Bluegrass:** Traditional bluegrass, progressive bluegrass, gospel bluegrass, neo-traditional bluegrass, jamgrass
+- **Soulful:** Soul, neo-soul, blue-eyed soul, southern soul, deep soul, psychedelic soul, northern soul
+- **Guitar:** Fingerstyle, flatpicking, slide guitar, folk guitar, classical guitar, percussive guitar
+- **Harmonica:** Blues harp, chromatic harmonica, diatonic harmonica, tremolo harmonica, bass harmonica
+- **Bass:** Slap bass, fingerstyle bass, pick bass, fretless bass, upright bass, electric bass
+- **Pop:** Indie pop, synth pop, dream pop, chamber pop, art pop, dance pop, electropop
+- **Folk:** Traditional folk, contemporary folk, indie folk, folk rock, freak folk, anti-folk, Celtic folk
+- **Raspy:** Raspy vocals, growl vocals, whisper vocals, gravelly singing, weathered voice
+- **Whistling:** Simple whistling, melodic whistling, harmonic whistling, whistle solos
+- **Gospel:** Traditional gospel, Southern gospel, contemporary gospel, gospel blues, urban gospel
+- **Violin:** Classical violin, fiddle, folk violin, jazz violin, electric violin, Celtic violin
+- **R&B:** Classic R&B, contemporary R&B, alternative R&B, rhythm and blues, neo-soul
+- **Emo:** Midwest emo, screamo, emo pop, emo rap, post-emo, emo revival
+- **Humming:** Melodic humming, background humming, harmonic humming, vocal percussion
+- **Spoken Word:** Poetic spoken word, narrative spoken word, slam poetry, storytelling
+- **Poetry:** Lyrical poetry, narrative poetry, free verse, structured poetry, prose poetry
+- **Country Melodic Acoustic:** Acoustic country ballads, country folk crossover, Nashville acoustic
+- **Rap:** Old school rap, conscious rap, boom bap, trap rap, melodic rap, lyrical rap, storytelling rap
+- **Hip Hop:** Golden age hip hop, alternative hip hop, underground hip hop, conscious hip hop, jazz rap
+- **Trap:** Trap, melodic trap, mumble trap, drill, Latin trap, cloud rap, phonk
+
+## Alternative (Secondary) Styles
+
+- **Dembow Beat:** Traditional dembow, electronic dembow, reggaeton dembow, digital dembow
+- **Bass Synth:** Analog bass synth, digital bass synth, FM bass, acid bass, reese bass, wobble bass
+- **Nylon Guitar:** Classical nylon, flamenco nylon, folk nylon, modern nylon, crossover nylon
+- **Gospel Organ:** Hammond B3, church organ, soul organ, gospel jazz organ
+- **Reggae:** Roots reggae, dancehall, dub, lovers rock, rocksteady, ska, reggae fusion
+- **Trap Hi-Hats:** Rolling hi-hats, stutter hi-hats, triplet hi-hats, double-time hi-hats
+- **Acoustic Country/R&B:** Country soul, Nashville R&B, acoustic soul country
+- **Aggressive Delivery:** Hardcore delivery, energetic vocals, intense projection, staccato delivery
+- **Baritone:** Classical baritone, jazz baritone, folk baritone, pop baritone, operatic baritone
+- **Blues:** Delta blues, Chicago blues, jump blues, electric blues, country blues, soul blues
+- **Chicago Rap:** Drill, conscious Chicago rap, Chicago boom bap, alternative Chicago hip hop
+- **Chillax:** Lo-fi chillax, ambient chillax, downtempo chillax, instrumental chillax
+- **Clackers:** Traditional clackers, rhythm clackers, percussion clackers
+- **Dance:** House dance, techno dance, EDM dance, pop dance, club dance, electronic dance
+- **Deep Bass/Male Baritone:** Sub bass vocals, deep vocal register, resonant male vocals
+- **EDM:** House, techno, trance, dubstep, drum and bass, hardstyle, future bass
+- **Emo Rap:** SoundCloud emo rap, melodic emo rap, alternative emo rap, sad rap
+- **Female Baritone:** Alto vocals, contralto vocals, deep female register, smoky female vocals
+- **Fiddle:** Irish fiddle, bluegrass fiddle, old-time fiddle, Cajun fiddle, Texas fiddle, Scottish fiddle
+- **Finger Snaps:** Beat snaps, rhythm snaps, percussion snaps, background snaps
+- **Gangsta Rap:** West Coast gangsta, East Coast gangsta, trap gangsta, hardcore gangsta
+- **House:** Deep house, tech house, progressive house, acid house, Chicago house, tropical house
+- **Jamaican Slang:** Patois vocals, dancehall slang, reggae patois, Jamaican delivery
+- **Kunqu:** Traditional kunqu, modern kunqu, fusion kunqu
+- **Lo-Fi:** Lo-fi hip hop, lo-fi beats, lo-fi jazz, bedroom lo-fi, vinyl lo-fi
+- **Marimba:** Classical marimba, folk marimba, jazz marimba, contemporary marimba
+- **Minor Key:** Minor blues, minor folk, minor jazz, minor classical, minor pop
+- **Rapid-Fire Rap:** Speed rap, chopper style, technical rap, tongue-twister delivery
+- **Steelpan:** Caribbean steelpan, jazz steelpan, classical steelpan, fusion steelpan
+
+# Preferred Instruments
+
+## Banjo
+- Five-string banjo (standard bluegrass)
+- Four-string plectrum banjo
+- Four-string tenor banjo
+- Six-string banjo (banjitar)
+- Long-neck banjo (Seeger style)
+- Open-back banjo
+- Resonator banjo
+- Cello banjo
+- Bass banjo
+- Ukulele banjo (banjolele)
+- Electric banjo
+- Hybrid banjos (guitar banjo)
+
+## Guitar
+- Acoustic guitar (steel-string)
+- Classical guitar (nylon-string)
+- Electric guitar (solid-body)
+- Semi-hollow electric guitar
+- Hollow-body electric guitar
+- Archtop guitar
+- Resonator guitar
+- 12-string guitar
+- Baritone guitar
+- Parlor guitar
+- Jumbo guitar
+- Dreadnought guitar
+- Concert guitar
+- Electric-acoustic guitar
+- Flamenco guitar
+- Steel guitar
+- Lap steel guitar
+- Pedal steel guitar
+
+## Harmonica
+- Diatonic harmonica (10-hole)
+- Chromatic harmonica
+- Tremolo harmonica
+- Octave harmonica
+- Orchestral harmonica
+- Bass harmonica
+- Chord harmonica
+- Polyphonia harmonica
+- Alto harmonica
+- Horn harmonica
+
+## Violin
+- Violin
+- Fiddle (playing style variation)
+- Electric violin
+- Viola
+- Cello
+- Double bass
+- Five-string violin
+- Baroque violin
+- Tenor violin
+- Piccolo violin
+- Stroh violin
+
+# All Styles
+
+## Classical Traditions
+- Andalusian classical music
+- Indian classical music
+- Korean court music
+- Persian classical music
+- Ottoman music (Classical Turkish music)
+- Western classical music
+
+## Western Classical Periods
+- Early music
+- Medieval music (500–1400)
+- Ars antiqua (1170–1310)
+- Ars nova (1310–1377)
+- Ars subtilior (1360–1420)
+- Renaissance music (1400–1600)
+- Baroque music (1600–1750)
+- Galant music (1720–1770)
+- Classical period (1750–1820)
+- Romantic music (1780–1910)
+- 20th and 21st-centuries classical music (1900–present)
+  - Modernism (1890–1930)
+  - Impressionism (1875 or 1890–1925)
+  - Neoclassicism (1920–1950)
+  - High modernism (1930–present)
+  - Postmodern music (1930–present)
+  - Experimental music (1950–present)
+  - Contemporary classical music (1945 or 1975–present)
+  - Minimal music
+
+## Popular Music Categories
+
+### Avant-garde & Experimental
+- Crossover music
+- Danger music
+- Drone music
+- Electroacoustic
+- Industrial music
+- Instrumental
+- Lo-fi
+- Musical improvisation
+- Musique concrète
+- Noise
+- Outsider music
+- Progressive music
+- Psychedelic music
+- Underground music
+
+### Blues
+- African blues
+- Blues rock
+- British blues
+- Canadian blues
+- Chicago blues
+- Classic female blues
+- Contemporary R&B
+- Country blues
+- Delta blues
+- Desert blues
+- Detroit blues
+- Electric blues
+- Gospel blues
+- Hill country blues
+- Hokum blues
+- Jump blues
+- Kansas City blues
+- Louisiana blues
+- Memphis blues
+- New Orleans blues
+- Piedmont blues
+- Punk blues
+- Rhythm and blues
+- Doo-wop
+- Soul blues
+- St. Louis blues
+- Swamp blues
+- Talking blues
+- Texas blues
+- West Coast blues
+
+### Country
+- Alternative country
+- Americana
+- Cowpunk/Country-punk
+- Gothic country
+- Roots rock
+- Australian country
+- Bush band
+- Bakersfield sound
+- Bluegrass
+- Old-time bluegrass/Appalachian bluegrass
+- Traditional bluegrass/Neo-traditional bluegrass
+- Progressive bluegrass/Nu-grass
+- Bluegrass gospel
+- Blue Yodeling
+- Bro-country
+- Cajun
+- Cajun fiddle
+- Canadian country
+- Franco-country
+- Christian country
+- Classic country
+- Country and Irish
+- Country blues
+- Country en Español
+- Country folk
+- Country pop/Cosmopolitan country
+- Country rap/Hick-hop
+- Country rock
+- Cowboy pop
+- Dansband
+- Gulf and Western
+- Hokum
+- Honky tonk
+- Instrumental country
+- Lubbock sound
+- Nashville sound
+- Countrypolitan
+- Neotraditional country
+- New country
+- Old-time
+- Outlaw country
+- Pop country
+- Progressive country
+- Regional Mexican
+- Rockabilly/Neo-Rockabilly
+- Psychobilly/Punkabilly
+- Gothabilly/Hellbilly
+- Southern rock
+- Southern soul
+- Sertanejo
+- Talking blues
+- Traditional country
+- Truck-driving country
+- Western/cowboy music
+- New Mexico music
+- Red dirt
+- Tejano/Tex-Mex
+- Texas country
+- Western swing
+- YEEDM
+- Zydeco
+
+### Easy Listening
+- Adult contemporary music
+- Adult standards
+- Background music
+- Elevator music (muzak)
+- Barococo
+- Beautiful music
+- Chill-out
+- Downtempo
+- Furniture music
+- Light music
+- Lounge music
+- Middle of the road
+- New-age music
+- Soft rock
+
+### Electronic Music
+- Ambient
+- Ambient dub
+- Dark ambient
+- Ambient industrial
+- Dungeon synth
+- Isolationism
+- Dreampunk
+- Illbient
+- New-age
+- Neoclassical new-age
+- Space music
+- Bass music
+- Footwork
+- Future bass
+- Kawaii future bass
+- Jungle terror
+- Midtempo bass
+- Trap (EDM)
+- UK bass
+- Wave
+- Hardwave
+- Breakbeat
+- Acid breaks
+- Baltimore club
+- Jersey club
+- Philly club
+- Big beat
+- Breakbeat hardcore
+- Darkcore
+- Hardcore breaks
+- Broken beat
+- Florida breaks
+- Nu skool breaks
+- Progressive breaks
+- Psychedelic breakbeat
+- Chill-out
+- Downtempo
+- Psybient
+- Psydub
+- Trip hop
+- Trip rock
+- Disco
+- Afro/cosmic music
+- Electro-disco
+- Hi-NRG
+- Eurobeat
+- Eurodance
+- Italo dance
+- Italo disco
+- Spacesynth
+- Space disco
+- Eurodisco
+- Nu-disco
+- Post-disco
+- Boogie
+- City pop
+- Drum and bass
+- Darkstep
+- Drumfunk
+- Drumstep
+- Hardstep
+- Intelligent drum and bass
+- Atmospheric drum and bass
+- Jazzstep
+- Jump-up
+- Liquid funk
+- Neurofunk
+- Sambass
+- Techstep
+- Dub
+- Dub poetry
+- Dubtronica
+
+### Electronic Rock
+- Dance-rock
+- Alternative dance
+- Baggy (Madchester)
+- New rave
+- Dance-punk
+- Electronic pop
+- Dance-pop
+- Freestyle
+- Disco polo
+- Hyperpop
+- Sophisti-pop
+- Synth-pop
+- Electroclash
+- Electropop
+- Wonky pop
+- Indietronica
+- Krautrock
+- New wave
+- Cold wave
+- Dark wave
+- Neoclassical dark wave
+- Neue Deutsche Todeskunst
+- Ethereal wave
+- Nu-gaze
+- Minimal wave
+- Neue Deutsche Welle
+- New romantic
+- Post-rock
+- Space rock
+- Synth-metal
+- Electrogrind
+- Electronicore
+- Synth-punk
+- Electronica
+- Folktronica
+- Live electronic (Livetronica)
+- Laptronica
+- Nu jazz (Jazztronica)
+- Progressive electronic
+- Berlin School
+- Kosmische musik
+
+### Regional Electronic Music
+- Ethnic electronica and regional EDM
+- Asian Underground
+- African electronic dance music
+- Afrobeats
+- Azonto
+- Coupé-décalé
+- Kuduro
+- Mahraganat
+- Shangaan electro
+- Budots
+- Changa tuki
+- Dancehall pop
+- Denpa music
+- Guaracha (EDM)
+- Funk carioca
+- Funk melody
+- Funk ostentação
+- Proibidão
+- Rasteirinha
+- Merenhouse
+- Nortec
+- Rabòday
+- Rara tech
+- Russ music
+- Shamstep
+- Tecnocumbia
+- Tribal guarachero
+- Worldbeat
+- Manila sound
+
+### Experimental Electronic
+- Black MIDI
+- Deconstructed club
+- Drone
+- Electroacoustic music
+- Acousmatic music
+- Electroacoustic improvisation
+- Musique concrète
+- Soundscape
+- Glitch
+- Microsound
+- Noise music
+- Danger music
+- Japanoise
+- Harsh noise
+- Harsh noise wall
+- Power electronics
+- Death industrial
+- Power noise
+- Plunderphonics
+- Sampledelia
+- Reductionism
+- Lowercase
+- Onkyokei
+
+### Funk and Dance Music
+- Funk fusion genres
+- Funktronica
+- Synth-funk
+- Hard dance
+- Hard NRG
+- Hardstyle
+- Dubstyle
+- Euphoric frenchcore
+- Euphoric hardstyle
+- Rawstyle
+- Trapstyle
+- Jumpstyle
+- Lento violento
+- Mákina
+- Hardcore
+- Bouncy techno
+- Breakcore
+- Raggacore
+- Digital hardcore
+- Frenchcore
+- Gabber
+- Early hardcore
+- Mainstream hardcore
+- Happy hardcore
+- UK hardcore
+- Industrial hardcore
+- J-core
+- Speedcore
+- Extratone
+- Flashcore
+- Splittercore
+
+### Hauntology and Nostalgia
+- Chillwave
+- Hypnagogic pop
+- Synthwave
+- Darksynth
+- Sovietwave
+- Vaporwave
+- Future funk
+- Hardvapour
+- Mallsoft
+
+### Hip Hop Fusion
+- Afroswing
+- Alternative hip hop
+- Hipster hop
+- Cloud rap
+- Crunk
+- Crunkcore
+- Snap music
+- Electro
+- Emo rap
+- Glitch hop
+- Instrumental hip hop
+- Lofi hip hop
+- Miami bass
+- Mumble rap
+- Trap
+- Afro trap
+- Drill
+- Brooklyn drill
+- UK drill
+- Latin trap
+- Phonk
+- Drift phonk
+- Brazilian phonk
+- Plugg
+- UK trap
+
+### House Music
+- Acid house
+- Afro house
+- Afro tech
+- Amapiano
+- Kidandali
+- Ambient house
+- Balearic beat
+- Ballroom
+- Bass house
+- Brazilian bass
+- Slap house
+- Blog house
+- Chicago hard house
+- Chicago house
+- Deep house
+- Disco house
+- Diva house
+- Hardbag
+- Electro house
+- Big room house
+- Future rave
+- Complextro
+- Dutch house
+- Fidget house
+- Melbourne bounce
+- Electro swing
+- Eurohouse
+- French house
+- Funky house
+- Future house
+- Garage house
+- Ghetto house
+- Ghettotech
+- Juke house
+- Gqom
+- Hip house
+- Electro hop
+- Italo house
+- Jackin house
+- Jazz house
+- Kwaito
+- Latin house
+- Melodic house
+- Microhouse
+- Moombahcore
+- Moombahton
+- Moombahsoul
+- New Jersey sound
+- Outsider house
+- Lo-fi house
+- Progressive house
+- Soulful house
+- Stadium house
+- Tech house
+- Tribal house
+- Tropical house
+- Trouse
+- UK hard house
+- Pumping house
+- Hardbass
+- Scouse house
+
+### Industrial Music
+- Electro-industrial
+- Dark electro
+- Aggrotech
+- Electronic body music (EBM)
+- Futurepop
+- New beat
+- Industrial hip hop
+- Industrial metal
+- Cyber metal
+- Neue Deutsche Härte
+- Industrial rock
+- Martial industrial
+- Witch house
+- Intelligent dance music (IDM)
+- Algorave
+- Drill 'n' bass
+
+### Jungle
+- Ragga jungle
+
+### R&B and Soul Fusion
+- Alternative R&B
+- Contemporary R&B
+- Neo soul
+- New jack swing
+
+### Techno
+- Acid techno
+- Ambient techno
+- Birmingham sound
+- Bleep techno
+- Detroit techno
+- Dub techno
+- Hard techno
+- Free tekno
+- Jungletek
+- Raggatek
+- Industrial techno
+- Minimal techno
+- Schaffel
+- Toytown techno
+
+### Trance Music
+- Acid trance
+- Balearic trance
+- Dream trance
+- Eurotrance
+- Hands up
+- Goa trance
+- Nitzhonot
+- Hard trance
+- Progressive trance
+- Psychedelic trance
+- Dark psytrance
+- Full-on
+- Minimal psytrance
+- Progressive psytrance
+- Suomisaundi
+- Tech trance
+- Uplifting trance
+- Vocal trance
+
+### UK Garage
+- 2-step garage
+- Bassline
+- Breakstep
+- Dubstep
+- Brostep
+- Post-dubstep
+- Reggaestep
+- Riddim
+- Future garage
+- Grime
+- Grindie
+- Speed garage
+- UK funky
+- Funkstep
+- Wonky
+
+### Video Game Music
+- Chiptune
+- Bitpop
+- Skweee
+- Nintendocore
+- FM synthesis
+- Sequencer music
+
+### Folk
+- American folk revival
+- Americana
+- Anti-folk
+- British folk revival
+- Cajun music
+- Celtic music
+- Chalga
+- Corrido
+- Creole music
+- Filk
+- Folk noir
+- Folk rock
+- Folktronica
+- Celtic rock
+- Freak folk
+- Indie folk
+- Industrial folk
+- Mariachi
+- Ranchera
+- Neofolk
+- New Weird America
+- Progressive folk
+- Protest song
+- Psychedelic folk
+- Singer-songwriter
+- Nueva canción
+- Skiffle
+- Sung poetry
+- Tarantella/Pizzica
+- Traditional blues verses
+
+### Hip Hop
+- Alternative hip-hop
+- Experimental hip-hop
+- Hipster hop
+- Boom bap
+- Bounce
+- British hip-hop
+- Road rap
+- Chopped and screwed
+- Chopper
+- Christian hip-hop
+- Cloud rap
+- Comedy hip-hop
+- Crunk
+- Crunkcore
+- East Coast hip-hop
+- Freestyle rap
+- Funk carioca
+- Funk ostentação
+- Frat rap
+- G-funk
+- Hardcore hip-hop
+- Dirty rap
+- Gangsta rap
+- Mafioso rap
+- Horrorcore
+- Memphis rap
+- Hyphy
+- Jerkin'
+- Instrumental hip-hop
+- Latin hip-hop
+- Chicano rap
+- Lofi hip-hop
+- Miami bass
+- Mumble rap
+- Nerdcore
+- Chap hop
+- Political hip-hop
+- Conscious hip-hop
+- Progressive rap
+- Religious hip-hop
+- Christian hip-hop
+- Jewish hip-hop
+- Slab music
+- Snap music
+- Southern hip-hop
+- Trap music
+- Drill music
+- Brooklyn drill
+- UK drill
+- Latin trap
+- Phonk
+- Plugg
+- Pluggnb
+- Rage
+- Tread rap
+- Turntablism
+- Underground hip-hop
+- West Coast hip-hop
+- Country rap
+- Electro
+- Emo rap
+- Hip-hop soul
+- Neo soul
+- Hip house
+- Industrial hip-hop
+- Jazz rap
+- New jack swing
+- Pop rap
+- Punk rap
+- Ragga hip hop
+- Rap opera
+- Rap rock
+- Rap metal
+- Trap metal
+- Rapcore
+- Trip hop
+
+### Jazz
+- Acid jazz
+- Afro-Cuban jazz
+- Alt-jazz
+- Avant-garde jazz
+- Bebop
+- Big band
+- Boogie-woogie
+- Bossa nova
+- Brazilian jazz
+- British dance band
+- Cape jazz
+- Chamber jazz
+- Continental jazz
+- Cool jazz
+- Crossover jazz
+- Dixieland
+- Ethno jazz
+- European free jazz
+- Free funk
+- Free improvisation
+- Free jazz
+- Gypsy jazz
+- Hard bop
+- Jazz blues
+- Jazz-funk
+- Jazz fusion
+- Jazz rap
+- Jazz rock
+- Jazztronica
+- Kansas City jazz
+- Latin jazz
+- Livetronica
+- M-base
+- Mainstream jazz
+- Modal jazz
+- Neo-bop jazz
+- Neo-swing
+- Nu jazz
+- Orchestral jazz
+- Post-bop
+- Progressive jazz
+- Punk jazz
+- Samba-jazz
+- Shibuya-kei
+- Ska jazz
+- Smooth jazz
+- Soul jazz
+- Straight-ahead jazz
+- Stride jazz
+- Swing
+- Trad jazz
+- Third stream
+- Vocal jazz
+- West Coast jazz
+
+### Pop
+- Adult contemporary
+- Adult hits
+- Alternative pop
+- Ambient pop
+- Arabic pop music
+- Art pop
+- Avant-pop
+- Baroque pop
+- Beach music
+- Bedroom pop
+- Brill building
+- Britpop
+- Bubblegum pop
+- C-pop
+- Cantopop
+- Hokkien pop
+- Mandopop
+- Canción
+- Canzone
+- Chalga
+- Chamber pop
+- Chanson
+- Christian pop
+- Classic hits
+- Classical crossover
+- Contemporary hit radio
+- Country pop
+- Cringe pop
+- Dance-pop
+- Dark pop
+- Disco polo
+- Electropop
+- Europop
+- Austropop
+- Eurobeat
+- French pop
+- Italo dance
+- Italo disco
+- Laïkó
+- Nederpop
+- Neomelodic music
+- Nordic popular music
+- Russian pop
+- Folk pop
+- Hyperpop
+- Indie pop
+- Twee pop
+- Indian pop
+- Iranian pop
+- J-pop
+- Anime song
+- City pop
+- Shibuya-kei
+- Jangle pop
+- Jazz pop
+- K-pop
+- Korean hip hop
+- Korean rock
+- T'ong guitar
+- Trot
+- Latin ballad
+- Latin pop
+- Mexican pop
+- New pop
+- New Romantic
+- Oldies
+- Operatic pop
+- OPM
+- Pinoy pop
+- Pop rap
+- Pop rock
+- Pop punk
+- Emo pop
+- Neon pop
+- Power pop
+- Soft rock
+- Surf pop
+- Yacht rock
+- Pop soul
+- Progressive pop
+- Psychedelic pop
+- Rebetiko
+- Rhythmic adult contemporary
+- Rhythmic contemporary
+- Rhythmic oldies
+- Schlager
+- Sophisti-pop
+- Space age pop
+- Sunshine pop
+- Swamp pop
+- Synth-pop
+- Teen pop
+- Traditional pop
+- Turbo-folk
+- Turkish pop
+- Urban adult contemporary
+- Urban contemporary music
+- Vispop
+- Wonky pop
+- Worldbeat
+- Yé-yé
+
+### R&B & Soul
+- Alternative R&B
+- Contemporary R&B
+- Disco
+- Freestyle
+- Go-go
+- Funk
+- Deep funk
+- Minneapolis Sound
+- Psychedelic funk
+- Synth-funk
+- Gospel music
+- Southern gospel
+- Urban contemporary gospel
+- New jack swing
+- Post-disco
+- Boogie
+- Rhythm and blues
+- Doo-wop
+- Soul
+- Blue-eyed soul
+- Brown-eyed soul
+- Cinematic soul
+- Classic soul
+- Hip hop soul
+- Neo soul
+- Northern soul
+- Progressive soul
+- Psychedelic soul
+- Quiet storm
+- Southern soul
+
+### Rock
+- Active rock
+- Adult album alternative
+- Adult-oriented rock
+- Afro rock
+- Album oriented rock
+- Alternative rock
+- Alternative dance
+- Britpop
+- Post-Britpop
+- College rock
+- Dream pop
+- Shoegaze
+- Blackgaze
+- Grunge
+- Post-grunge
+- Indie rock
+- Dunedin sound
+- Kindie rock
+- Math rock
+- Midwest emo
+- Post-punk revival
+- Slacker rock
+- Madchester
+- Baggy
+- Noise pop
+- Sadcore
+- Slowcore
+- American rock
+- Anatolian rock
+- Arabic rock
+- Arena rock
+- Beat
+- British Invasion
+- Freakbeat
+- Mod (subculture)
+- Nederbeat
+- Blues rock
+- Boogie rock
+- Brazilian rock
+- Samba rock
+- British rhythm and blues
+- British rock music
+- Chamber pop
+- Chinese rock
+- Christian rock
+- Classic alternative
+- Classic rock
+- Comedy rock
+- Country rock
+- Dark cabaret
+- Death 'n' roll
+- Deathrock
+- Desert rock
+- Electronic rock
+- Electroclash
+- Electronicore
+- New wave
+- Cold wave
+- Dark wave
+- Ethereal wave
+- Emo
+- Experimental rock
+- Art rock
+- Industrial rock
+- Post-punk
+- Dance-punk
+- Dance-rock
+- Gothic rock
+- No wave
+- Noise rock
+- Post-rock
+- Post-metal
+- Folk rock
+- British folk rock
+- Celtic rock
+- Medieval folk rock
+- Funk rock
+- Garage rock
+- Proto-punk
+- Geek rock
+- Glam rock
+- Gothic rock
+- Pagan rock
+- Hard rock
+- Heartland rock
+- Heavy metal
+- Indian rock
+- Iranian rock
+- Instrumental rock
+- Japanese rock
+- Jazz fusion
+- Jazz rock
+- Korean rock
+- Latin rock
+- Chicano rock
+- Rock en español
+- Rock music in Mexico
+- Mainstream rock
+- Mangue bit
+- Modern rock
+- New wave of classic rock
+- Occult rock
+- Paisley Underground
+- Pop rock
+- Jangle pop
+- Power pop
+- Soft rock
+- Yacht rock
+- Progressive rock
+- Art rock
+- Avant-prog
+- Rock in Opposition
+- Canterbury scene
+- Flamenco rock
+- Krautrock
+- Neo-prog
+- New prog
+- Post-progressive
+- Progressive rock (radio format)
+- Proto-prog
+- Space rock
+- Symphonic Rock
+- Zeuhl
+- Psychedelic rock
+- Acid rock
+- Freak scene
+- Neo-psychedelia
+- Raga rock
+- Pub rock (Australia)
+- Pub rock (United Kingdom)
+- Punk rock
+- Rap rock
+- Rapcore
+- Reggae rock
+- Rock and roll
+- Rockabilly
+- Gothabilly
+- Hellbilly
+- Psychobilly
+- Rock music in France
+- Rock opera
+- Roots rock
+- Southern rock
+- Stoner rock
+- Swamp rock
+- Sufi rock
+- Surf rock
+- Tropical rock
+- Turkish rock
+- Viking rock
+- Visual kei
+- Nagoya kei
+- Wizard rock
+- Worldbeat
+- World fusion
+
+### Metal
+- Alternative metal
+- Funk metal
+- Nu metal
+- Rap metal
+- Avant-garde metal
+- Drone metal
+- Post-metal
+- Black metal
+- Depressive suicidal black metal
+- Blackened death metal
+- Atmospheric black metal
+- Blackgaze
+- Melodic black metal
+- National Socialist black metal
+- Symphonic black metal
+- Avant-garde black metal
+- Post-black metal
+- Christian metal
+- Unblack metal
+- Death metal
+- Death 'n' roll
+- Deathgrind
+- Melodic death metal
+- Technical death metal
+- Brutal death metal
+- Slam death metal
+- Doom metal
+- Death-doom
+- Stoner-doom
+- Funeral doom
+- Folk doom
+- Atmospheric doom
+- Blackened doom
+- Gothic doom
+- Symphonic doom
+- Sludge doom
+- Drone doom
+- Extreme metal
+- Folk metal
+- Celtic metal
+- Medieval metal
+- Pagan metal
+- Viking metal
+- Pirate metal
+- Glam metal
+- Gothic metal
+- Industrial metal
+- Kawaii metal
+- Latin metal
+- Math metal
+- Metalcore
+- Deathcore
+- Mathcore
+- Melodic metalcore
+- Progressive metalcore
+- Neoclassical metal
+- Neue Deutsche Härte
+- New wave of American heavy metal
+- New wave of British heavy metal
+- Nintendocore
+- Pop metal
+- Power metal
+- Progressive metal
+- Djent
+- Sludge metal
+- Speed metal
+- Symphonic metal
+- Thrash metal
+- Crossover thrash
+- Groove metal
+
+### Punk
+- Afro-punk
+- Anarcho punk
+- Crust punk
+- D-beat
+- Art punk
+- Avant punk
+- Christian punk
+- Crust punk
+- Deathrock
+- Electropunk
+- Cyberpunk
+- Dance-punk
+- Digital hardcore
+- Dreampunk
+- Synth punk
+- Folk punk
+- Celtic punk
+- Cowpunk
+- Gypsy punk
+- Scottish Gaelic punk
+- Garage punk
+- German punk
+- Glam punk
+- Gothic punk
+- Grindcore
+- Crustgrind
+- Electrogrind
+- Goregrind
+- Noisegrind
+- Pornogrind
+- Hardcore punk
+- Bardcore
+- Beatdown hardcore
+- Christian hardcore
+- Crabcore
+- Crunkcore
+- Electronicore
+- Krishnacore
+- Melodic hardcore
+- Positive hardcore
+- Post-hardcore
+- Queercore
+- Taqwacore
+- Emo
+- Emo pop
+- Screamo
+- Powerviolence
+- Street punk
+- Horror punk
+- Latino punk
+- Nazi punk
+- Oi!
+- Pop punk
+- Easycore
+- Neon pop
+- Post-punk
+- Dance-punk
+- Post-punk revival
+- Proto-punk
+- Psychobilly
+- Punkabilly
+- Punk blues
+- Punk jazz
+- Punk pathetique
+- Punk rap
+- Reggae punk
+- Riot grrrl
+- Ska punk
+- Skate punk
+- Street punk
+- Surf punk
+- Trallpunk
+
+# Instruments
+
+## Percussion
+- Acme siren
+- Afoxé
+- Agogô
+- Agung
+- Agung a tamlang
+- Portative Air horn
+- Alarm
+- Angklung
+- Anvil (including Peening Anvils and Turdus philomelos anvil)
+- Apito
+- Babendil
+- Bak
+- Bamboo slit drum
+- Balafon
+- Balloon
+- Batá drum
+- Bell
+- Boatswain's call
+- Cabasa
+- Cajón
+- Carillon
+- Castanets (Palillos)
+- Caxirola
+- Caxixi
+- Chácaras
+- Chimes
+- Clapstick
+- Claves
+- Cowbell
+- Crotales
+- Cymbal
+- Cymbals
+- Drum kit
+- Erikundi
+- Ferrinho
+- Firecracker
+- Flexatone
+- Octa-Vibraphone
+- Gandingan
+- Ghatam
+- Glockenspiel
+- Güiro
+- Handbells
+- Handpan
+- Hang
+- Kalimba
+- Kayamb (Kayamba)
+- Kemanak
+- Khartal
+- Klaxon
+- Kouxian
+- Kulintang
+- Maraca
+- Marimba
+- Mbira
+- Metallophone
+- Mechanical music box
+- Noisemaker
+- Pahū Pounamu
+- Piano (pianoforte)
+- Washboard
+- Ashiko
+- djembe
+- Atabaque
+- Bamboula
+- Mirwas
+- Pandeiro
+- Shime-daiko
+- Tambori
+- Tamborim
+- Tan-tan
+
+## Water and Glass Instruments
+- Celesta
+- Crystallophone
+- Glass Harmonica
+- Glass harp
+- Glasschord
+- Hydraulophone
+- Plasmaphone
+- Pyrophone
+- Quintephone
+- Sea organ
+- Shishi-odoshi (Japan)
+- Suikinkutsu (Japanese water zither)
+- Wobble board (Australia)
+- Waterphone
+
+## Wind and Reed Instruments
+- Accordion
+  - Button accordion
+  - Cajun accordion
+  - Chromatic button accordion
+  - Diatonic button accordion
+  - Free bass accordion
+  - Piano accordion
+  - Schrammel accordion
+  - Steirische Harmonika
+- Bassoon
+- Tenoroon
+- Bombard
+- Chromatic bombard
+- Castrato
+- Chalumeau
+- Clarinets
+  - Piccolo clarinet in A♭ (or G)
+  - Sopranino clarinet in E♭ (or D)
+  - Soprano clarinet in B♭ (or A; also C, low G)
+  - Basset clarinet in A
+  - Clarinette d'amour in G
+  - Basset horn in F
+  - Alto clarinet in E♭
+  - Bass clarinet
+  - Contra-alto clarinet
+  - Contrabass clarinet
+  - Octocontra-alto clarinet
+  - Octocontrabass clarinet
+- Concertina
+- Chemnitzer concertina
+- Cornet
+  - E♭ Soprano cornet
+  - A Soprano cornet
+  - C Soprano cornet
+  - Pocket cornet
+  - Pocket trumpet
+- Crumhorn
+  - Soprano
+  - Alto
+  - Tenor
+  - Bass
+  - Greatbass
+- Duck call
+- Duduk
+- Dulcian
+  - Soprano dulcian
+  - Alto dulcian
+  - Tenor dulcian
+  - Bass dulcian
+- Flute
+  - Alto flute
+  - Bass flute
+  - Contra-alto flute
+  - Contrabass flute
+  - Sub contra alto flute
+  - Double contrabass flute
+  - Hyperbass flute
+- Harmonica
+  - Chromatic harmonica
+  - Diatonic harmonica
+  - Tremolo harmonica
+  - Orchestral harmonica
+  - ChenGong harmonica
+- Oboe
+  - Bass/Baritone oboe
+  - Contrabass oboe
+  - Cor anglais/English horn
+  - Oboe d'amore
+  - Oboe da caccia
+  - Piccolo oboe
+  - Oboe musette
+- Ocarina
+  - Transverse ocarina
+  - Pendant ocarina
+  - Inline ocarina
+  - Multi chambered ocarina
+  - Keyed ocarina
+  - Slide ocarina
+- Recorder
+  - Garklein
+  - Sopranino
+  - Descant
+  - Treble or alto
+  - Tenor
+  - Bass
+  - Great bass
+  - Contra bass
+  - Subcontra bass
+  - Sub-subcontrabass
+- Venova
+- Rothphones
+  - Soprano rothphone
+  - Alto rothphone
+  - Tenor rothphone
+  - Baritone rothphone
+  - Bass rothphone
+- Sackbut
+  - Alto sackbut
+  - Tenor sackbut
+  - Bass sackbut
+  - Contrabass sackbut
+- Sarrusophones
+  - Sopranino sarrusophone
+  - Soprano sarrusophone
+  - Alto sarrusophone
+  - Tenor sarrusophone
+  - Baritone sarrusophone
+  - Bass sarrusophone
+  - Contrabass sarrusophone
+- Saxophones
+  - Piccolo saxophone (Soprillo)
+  - Sopranino saxophone
+  - C Soprano saxophone
+  - Soprano saxophone
+  - Mezzo-soprano saxophone (Alto in F)
+  - Alto saxophone
+  - C melody saxophone (Tenor in C)
+  - Tenor saxophone
+  - Baritone saxophone
+  - Bass saxophone
+  - Contrabass saxophone
+  - Subcontrabass saxophone
+- Slide trumpet
+  - Medieval slide trumpet
+  - Renaissance slide trumpet
+  - Baroque slide trumpet
+- Trombones
+  - Piccolo trombone
+  - Soprano trombone
+  - Alto trombone
+  - Tenor trombone
+  - Bass trombone
+  - Contrabass trombone
+  - Valve trombone
+  - Superbone
+- Trumpets
+  - Soprano trumpet
+  - Bass trumpet
+  - Baroque trumpet
+  - Bass trumpet
+  - Rotary valve trumpet
+- Tuba
+  - Bass tuba
+  - Contrabass tuba
+  - Subcontrabass tuba
+
+## String Instruments
+- Banjo
+  - Banjo cello
+  - Bass banjo
+  - Five-stringed banjo
+  - Bluegrass banjo
+  - Four-stringed banjo
+  - Plectrum banjo
+  - Six-stringed banjo
+  - Tenor banjo
+  - Zither banjo
+- Charangos
+  - Charango
+  - Charangón
+  - Hualaycho (Walaycho)
+  - Ronroco
+  - Hatun charango
+  - Chillador
+  - Ayacucho
+  - Bajo charango
+  - Chango
+  - Charango mediano
+  - KhonKhota
+  - Moquegua
+  - Pampeno
+  - Shreiker
+  - Sonko
+  - Vallegrandino
+- Double bass
+- Five-string double bass
+- Guitar
+  - Acoustic guitar
+  - Acoustic bass guitar
+  - Acoustic-electric guitar
+  - Archtop guitar
+  - Baritone guitar
+  - Baroque guitar
+  - Bass guitar
+  - Bahian guitar
+  - Brahms guitar
+  - Chitarra battente
+  - Cigar box guitar
+  - Classical guitar
+  - Console steel guitar
+  - Electric guitar
+  - English guitar
+  - Fretless guitar
+  - Lyre-guitar
+  - Extended-range guitars
+  - Alto guitar
+  - Seven-string guitar
+  - Eight-string guitar
+  - Nine-string guitar
+  - Ten-string guitar
+  - Eleven-string alto guitar
+  - Twelve-string guitar
+  - Flamenco guitar
+  - Guitarra quinta huapanguera
+  - Guitar synthesizer
+  - Guitarrón (chileno)
+  - Guitarrón (mexicano)
+  - Guitarrón (uruguayo)
+  - Gut-stringed guitars
+  - Lap steel guitars
+  - Dobro
+  - National Steel
+  - Multi-neck guitar
+  - Double-neck guitar
+  - Triple-neck guitar
+  - Quadruple-neck guitar
+  - Five-neck guitar
+  - Six-neck guitar
+  - Seven-neck guitar
+  - Eight-neck guitar
+  - Rock Ock
+  - Twelve-neck guitar
+  - Octave guitar
+  - Parlor guitar
+  - Pedal steel guitar
+  - Resophonic guitar
+  - Romantic guitar
+  - Russian guitar
+  - Selmer guitar
+  - Semi-acoustic guitar
+  - Slide guitar
+  - Silent guitar
+  - Steel guitar
+  - Steel-string acoustic guitar
+  - Tenor guitar
+  - Terz guitar
+  - Yotar
+- Jarana jarocha
+  - Jarana chaquiste
+  - Jarana mosquito
+  - Jarana primera
+  - Jarana segunda
+  - Jarana tercera
+- Mandolin
+  - Mandolin-banjo
+  - Mandocello
+  - Mandola
+  - Bluegrass mandolin
+  - Electric mandolin
+  - Octave mandolin
+  - Resonator mandolin
+- Piano (pianoforte)
+  - Grand piano
+  - Upright piano
+  - Player piano
+  - Electric piano
+  - Fortepiano
+  - Pedal piano
+- Ruan
+  - Gaoyinruan
+  - Xiaoruan
+  - Zhongruan
+  - Daruan
+  - Diyinruan
+- Ukulele
+  - Concert ukulele
+  - Electric ukulele
+  - Harp ukulele
+  - Lap steel ukulele
+  - Pocket ukulele
+  - Resonator ukulele
+  - Soprano ukulele
+  - Tahitian ukulele
+  - Tenor ukulele
+  - Eight-string tenor
+  - Five-string tenor
+  - Lili'u
+  - Six-string tenor
+  - Baritone ukulele
+  - Bass ukulele
+  - Contrabass ukulele
+  - U-bass
+  - Cigar box ukulele
+- Viol (viola de gamba)
+  - Pardessus de viole
+  - Treble viol (dessus)
+  - Alto viol
+  - Bass viol
+  - Division viol
+  - Lyra viol
+  - Tenor viol (taille)
+  - Great bass violone
+  - Contrabass violone
+- Violin
+  - Piccolo violino
+  - Baroque violin
+  - Bass violin
+  - Electric violin
+  - Five string violin
+  - Stroh violin
+  - Tenor violin
+- Zither
+  - Alpine zither (harp zither)
+  - Concert zither
+  - Guitar zither
+  - Overtone zither
+
+## Keyboard and Electronic Instruments
+- Keyboard instruments
+  - Accordion
+  - Piano
+  - Harpsichord
+  - Organ
+  - Clavichord
+  - Virginals
+  - Synthesizer
+  - Electronic keyboard
+- Electronic instruments
+  - AlphaSphere
+  - Audiocubes
+  - Bass pedals
+  - Continuum Fingerboard
+  - Croix Sonore
+  - Denis d'or
+  - Dubreq stylophone
+  - Drum machine
+  - Electric guitar
+  - Electronic keyboard
+  - Digital piano
+  - Electronic organ
+  - EWI
+  - Fingerboard synthesizer
+  - Hammond organ
+  - Keyboard
+  - Keytar
+  - Kraakdoos (or cracklebox)
+  - Laser harp
+  - Mellotron
+  - MIDI controller
+  - Eigenharp
+  - MIDI keyboard
+  - Seaboard
+  - Moog synthesizer
+  - Omnichord
+  - Ondes Martenot
+  - Otamatone
+  - Sampler
+  - Skoog
+  - Synclavier
+  - Synthesizer
+  - Teleharmonium
+  - Tenori-on
+  - Theremin
+  - trautonium
+  - Turntablism
+  - Turntable
+
