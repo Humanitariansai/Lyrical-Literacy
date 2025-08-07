@@ -1,3 +1,50 @@
+I can see you're looking to create a detailed survey paper similar to the provided neuroscience research article, but focused on the second ad group from the Google Ad Grants document (Create Your Own Educational Music). Here's a comprehensive prompt to help generate this specialized content:
+
+# Prompt for Creating a Detailed Research Survey on AI-Generated Educational Music
+
+```
+Please create a comprehensive research survey paper titled "AI-Powered Educational Music Creation: Advances, Applications, and Pedagogical Impacts" that mirrors the structure, academic depth, and scholarly tone of the sample research paper I've provided. This survey should examine the intersection of artificial intelligence, music generation technologies, and educational applications.
+
+The paper should follow this academic structure:
+1. Abstract (summarizing the entire paper in ~250 words)
+2. Introduction (establishing context, significance, and objectives)
+3. Theoretical Foundations (covering AI music generation principles)
+4. Key Research Areas (at least 4-5 major sections with 2-3 subsections each)
+5. Implementation Approaches and Case Studies
+6. Practical Applications and Recommendations
+7. Future Directions
+8. Conclusion
+9. References (include at least 40-50 hypothetical but plausible academic references)
+
+Key topics that must be covered:
+- The evolution of AI music generation technologies (like Suno, Udio, and similar platforms)
+- Neural approaches to music composition and their educational applications
+- Pedagogical frameworks for implementing AI-generated music in learning contexts
+- User experience and customization capabilities of current technologies
+- Empirical studies on learning outcomes when using AI-generated educational music
+- Ethical considerations and best practices for educational implementation
+- Personalization capabilities for different learning contexts (special education, language learning, etc.)
+- Technical requirements and accessibility considerations
+- Cross-cultural applications and adaptability
+
+The paper should maintain the scholarly tone, detailed analysis, and evidence-based approach of the sample while focusing specifically on AI-generated educational music. Use subsections to organize content clearly, and include specific examples of technologies, methodologies, and applications throughout.
+
+Please use plausible hypothetical research findings and citations in a format similar to the sample paper, with the same level of specificity and academic rigor. The final document should be suitable for an academic audience while remaining accessible to education professionals interested in implementing these technologies.
+```
+
+This prompt is designed to:
+
+1. Create a document with the same academic rigor and structure as the sample research paper
+2. Focus specifically on the "Create Your Own Educational Music" theme from the Google Ad Grants document
+3. Incorporate AI music generation technologies like those mentioned in the original document (Suno, Udio)
+4. Generate a comprehensive resource that could serve as authoritative content for the nonprofit's website
+5. Provide a scholarly foundation for the claims made in the Google Ad Grants campaign
+
+The resulting paper would provide substantial credibility to the nonprofit's work in AI-generated educational music while serving as excellent content for their website, potentially helping with SEO and establishing thought leadership in this space.
+
+Would you like me to modify this prompt in any way to better align with your specific needs?
+
+
 # AI-Powered Educational Music Creation: A Comprehensive Survey of Technologies and Applications
 
 ## Abstract
