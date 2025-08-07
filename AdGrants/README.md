@@ -36,7 +36,7 @@ Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Res
 
 ### Google Ad Grants Campaign Resources
 1. [Campaign Implementation Guide](/AdGrants/Lyrical_Literacy_Google_Ad_Grants_Campaign_Implementation_Guide.md) - Comprehensive guide for setting up and maintaining our Google Ad Grants campaign
-2. [LLM Keyword Generation Guide](/Lyrical-Literacy/AdGrants/Using_LLMs_to_Generate_Google_Ad_Grants_Keywords_for_a_Nonprofit.md) - Step-by-step process for using LLMs to generate compliant keywords
+2. [LLM Keyword Generation Guide](AdGrants/Using_LLMs_to_Generate_Google_Ad_Grants_Keywords_for_a_Nonprofit.md) - Step-by-step process for using LLMs to generate compliant keywords
 
 ### Research Papers and Surveys
 1. [Neuroscience-Based Musical Interventions for Cognitive Development in Children](/AdGrants/Ad_Group_1_Neuroscience-Based_Musical_Interventions_for_Cognitive_Development_in_Children.md) - Comprehensive survey supporting Ad Group 1: Brain Exercise Songs for Children
