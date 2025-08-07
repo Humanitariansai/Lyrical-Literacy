@@ -1,3 +1,36 @@
+# Prompt for Creating a Google Ad Grants Campaign Implementation Guide
+
+```
+Please create a comprehensive Google Ad Grants Campaign Implementation Guide for [YOUR NONPROFIT NAME] based on the sample document I've provided. Our nonprofit focuses on [BRIEFLY DESCRIBE YOUR MISSION AND WORK]. 
+
+Please include:
+
+1. A complete account and campaign overview section with placeholders for our organization's specific information
+2. A structured campaign framework with:
+   - 2 ad groups relevant to our mission
+   - Comprehensive keyword lists (exact match, phrase match, broad match, and long-tail keywords)
+   - Responsive search ad templates with headlines and descriptions
+   - Sitelink suggestions
+   - Negative keywords appropriate for our organization
+
+3. Image creation prompts for ad assets that align with our mission
+4. Landing page content recommendations with H1, H2 sections, and CTA suggestions
+5. A monitoring and maintenance checklist (weekly, monthly, quarterly)
+6. A complete section on 501(c)(3) Ad Grants compliance requirements
+
+Please maintain the overall structure and comprehensiveness of the sample document while tailoring all content specifically to [YOUR NONPROFIT'S] mission of [BRIEF MISSION STATEMENT].
+
+Our organization's details:
+- Name: [FULL LEGAL NAME]
+- EIN: [YOUR EIN NUMBER]
+- Primary mission focus: [CORE MISSION IN 5-10 WORDS]
+- Target audience: [PRIMARY DEMOGRAPHIC OR BENEFICIARIES]
+- Geographic focus: [LOCAL/REGIONAL/NATIONAL/INTERNATIONAL]
+- Key services/programs: [LIST 2-3 MAIN OFFERINGS]
+- Website: [YOUR WEBSITE URL]
+```
+
+
 # Lyrical Literacy: Google Ad Grants Campaign Implementation Guide
 
 ## Account & Campaign Overview
