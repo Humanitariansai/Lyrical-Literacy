@@ -35,7 +35,7 @@ Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Res
 11. [Research Papers](#research-papers)
 
 ### Google Ad Grants Campaign Resources
-1. [Campaign Implementation Guide](/Lyrical-Literacy/AdGrants/Lyrical_Literacy_Google_Ad_Grants_Campaign_Implementation_Guide.md) - Comprehensive guide for setting up and maintaining our Google Ad Grants campaign
+1. [Campaign Implementation Guide](/AdGrants/Lyrical_Literacy_Google_Ad_Grants_Campaign_Implementation_Guide.md) - Comprehensive guide for setting up and maintaining our Google Ad Grants campaign
 2. [LLM Keyword Generation Guide](/Lyrical-Literacy/AdGrants/Using_LLMs_to_Generate_Google_Ad_Grants_Keywords_for_a_Nonprofit.md) - Step-by-step process for using LLMs to generate compliant keywords
 
 ### Research Papers and Surveys
