@@ -1,3 +1,6 @@
+# Prompt for and Ad Group
+
+
 Please create a comprehensive research survey paper related to [YOUR NONPROFIT'S MISSION] using the structure and scholarly approach of the sample research paper I've provided. This paper should serve as authoritative content supporting one of our primary focus areas: [SPECIFIC PROGRAM/INITIATIVE RELATED TO YOUR AD GROUP].
 
 Title: "[YOUR TOPIC]: A Comprehensive Survey of Research and Applications"
@@ -25,6 +28,26 @@ The paper should specifically address how research supports our approach to [SPE
 Please use the same level of detail, academic rigor, and organization as the sample paper, but focus entirely on topics relevant to our mission of [MISSION STATEMENT]. The final document should serve as both an educational resource and a demonstration of our organization's expertise and evidence-based approach.
 
 
+# Actual Prompt for Ad Group 1
+
+```
+Write a detailed survey paper with use cases and citations on Ad Group 1: Brain Exercise Songs for Children.
+
+This ad group promotes our educational songs specifically designed based on neuroscience principles to enhance cognitive development, language acquisition, memory formation, and overall brain health in children.
+
+The paper should be comprehensive, academic in tone, and include:
+- An abstract and introduction
+- Neurological foundations of music's impact on brain development
+- Research on music's effects on cognitive functions in children
+- Mechanisms through which music enhances language acquisition
+- Case studies of music-based interventions across different educational contexts
+- Applications for children with various learning needs
+- Methodological considerations for implementation
+- Future research directions
+- A substantial reference section with plausible citations
+
+Format it as a proper academic survey paper with numbered sections and subsections.
+```
 
 # Neuroscience-Based Musical Interventions for Cognitive Development in Children: A Comprehensive Survey
 
