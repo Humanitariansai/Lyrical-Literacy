@@ -1,5 +1,3 @@
-I can see you're looking to create a detailed survey paper similar to the provided neuroscience research article, but focused on the second ad group from the Google Ad Grants document (Create Your Own Educational Music). Here's a comprehensive prompt to help generate this specialized content:
-
 # Prompt for Creating a Detailed Research Survey on AI-Generated Educational Music
 
 ```
@@ -42,8 +40,23 @@ This prompt is designed to:
 
 The resulting paper would provide substantial credibility to the nonprofit's work in AI-generated educational music while serving as excellent content for their website, potentially helping with SEO and establishing thought leadership in this space.
 
-Would you like me to modify this prompt in any way to better align with your specific needs?
+## Actual Prompt Used 
 
+Write a detailed survey paper with use cases and citations on Ad Group 2: Create Your Own Educational Music.
+
+This ad group promotes our AI-powered tools and resources for creating custom educational music using technologies like Suno and Udio, reflecting our work in developing personalized music content.
+
+The paper should be comprehensive, academic in tone, and include:
+- An abstract and introduction
+- Technical details about the AI music generation technologies
+- Pedagogical frameworks supporting their use
+- Case studies and applications across different educational contexts
+- Implementation considerations
+- Ethical considerations
+- Future directions
+- A substantial reference section with plausible citations
+
+Format it as a proper academic survey paper with numbered sections and subsections.
 
 # AI-Powered Educational Music Creation: A Comprehensive Survey of Technologies and Applications
 
