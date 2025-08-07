@@ -1,4 +1,4 @@
-# Prompt for and Ad Group
+# Prompt for Creating a Detailed Research Survey on Ad Group 1: Brain Exercise Songs for Children
 
 
 Please create a comprehensive research survey paper related to [YOUR NONPROFIT'S MISSION] using the structure and scholarly approach of the sample research paper I've provided. This paper should serve as authoritative content supporting one of our primary focus areas: [SPECIFIC PROGRAM/INITIATIVE RELATED TO YOUR AD GROUP].
