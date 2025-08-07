@@ -1,4 +1,3 @@
-I understand you want me to add the campaign themes to the README document. Here's the updated README with the campaign themes included:
 
 # Lyrical Literacy
 Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Research*
