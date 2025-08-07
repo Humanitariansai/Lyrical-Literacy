@@ -2,7 +2,6 @@
 # Lyrical Literacy
 Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Research*
 
-
 ## Mission Statement
 
 **Lyrical Literacy is exercise for the brain.** "Use it or lose it" is the mantra of biological systems. Just as people who train only their upper body become injury-prone and physically imbalanced, the same principle applies to cognitive development. Despite its proven benefits, singing is often cut from school curricula. Through tongue twisters, lullabies, and nursery rhymes, we teach language by singing basic vocabulary and survival phrases, engaging multiple brain regions simultaneously to create balanced cognitive development.
