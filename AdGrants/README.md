@@ -17,7 +17,7 @@ Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Res
 11. [Research Papers](#research-papers)
 
 ### Google Ad Grants Campaign Resources
-1. [Campaign Implementation Guide](campaign-implementation-guide.md) - Comprehensive guide for setting up and maintaining our Google Ad Grants campaign
+1. [Campaign Implementation Guide](/Ad_Group_1_Neuroscience-Based_Musical_Interventions_for_Cognitive_Development_in_Children.md) - Comprehensive guide for setting up and maintaining our Google Ad Grants campaign
 2. [LLM Keyword Generation Guide](llm-keyword-generation-guide.md) - Step-by-step process for using LLMs to generate compliant keywords
 
 ### Research Papers and Surveys
