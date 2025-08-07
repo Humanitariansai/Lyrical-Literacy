@@ -1,110 +1,173 @@
-# Who am I?
+# Using LLMs to Generate Google Ad Grants Keywords for a 501(c)(3) Nonprofit
 
-**Nik Bear Brown ("Professor Bear")**
+Below is a detailed, step-by-step guide on how to use Claude, ChatGPT, or similar LLMs to generate compliant keywords for your Google Ad Grants campaign while maintaining 501(c)(3) compliance requirements.
 
-I am an Associate Teaching Professor at Northeastern University's College of Engineering with expertise in AI, machine learning, and computational biology. With a PhD in Computer Science from UCLA and additional degrees in Finance, MBA, Information Design and Visualization, and Biochemistry, I bring multidisciplinary perspectives to education and research.
+## Step 1: Understand Google Ad Grants 501(c)(3) Compliance Requirements
 
-I've taught at prestigious institutions including Northeastern University, UCLA, Santa Monica College, Arts Institutes, and LA Film School, specializing in AI engineering, machine learning, game development, algorithms, and data science. As founder of Humanitarians AI and a mentor at AI Skunkworks, I'm dedicated to developing ethical AI solutions and preparing the next generation of AI engineers.
+Before generating keywords, understand these critical compliance requirements:
+- No single-word keywords (prohibited by Google Ad Grants)
+- No overly generic terms (must be specific to your mission)
+- Keywords must directly relate to your nonprofit mission
+- Maintain minimum 5% click-through rate (CTR)
+- Each ad group needs closely related keywords
+- Avoid commercial intent keywords that don't support your mission
 
-# Teaching Philosophy: Learning by Doing
+## Step 2: Prepare Your Campaign Structure
 
-## Philosophy Overview
+Suggested campaign name: **"Lyrical Literacy - Neural Music Development"**
 
-Experiential AI, Learning by Doing, Collaborate with companies and researchers.
+Two ad groups:
+1. **"Brain Exercise Songs for Children"**
+2. **"Create Your Own Educational Music"**
 
-For the details on how to implement any particular project go to:
+## Step 3: Craft Effective LLM Prompts
 
-**Nik Bear Brown on YouTube**  
-[https://www.youtube.com/@nikbearbrown](https://www.youtube.com/@nikbearbrown)
+### Initial Prompt Template
 
-or Nik Bear Brown's 501c3 Non-Profit:
+```
+I need to generate keywords for my 501(c)(3) nonprofit's Google Ad Grants campaign. We focus on [brief description of Lyrical Literacy]. 
 
-**Humanitarians AI**  
-[https://www.humanitarians.ai/](https://www.humanitarians.ai/)  
-[https://www.youtube.com/@humanitariansai](https://www.youtube.com/@humanitariansai)
+Our campaign is called "[campaign name]" with two ad groups:
+1. "[Ad Group 1 Name]" - [brief description]
+2. "[Ad Group 2 Name]" - [brief description]
 
-## Core Principles
+Please generate at least 50 compliant keywords for each ad group that:
+- Contain 2+ words (no single-word keywords)
+- Are specific to our mission (no generic terms)
+- Use a mix of match types (exact, phrase, broad)
+- Are organized by search intent (awareness, consideration, conversion)
+- Directly relate to our nonprofit activities
 
-### Active Engagement Over Passive Consumption
-Do it.
+For context, here's more information about our organization: [paste 2-3 sentences from your mission/about us]
+```
 
-### AI-Enhanced Personalized Learning
-We have an AI Fluency framework called "Botspeak" that teaches people to effectively and ethically leverage AI.
+## Step 4: Generate Keywords for Ad Group 1
 
-### Real-World Problem Solving
-Abstract concepts become concrete when applied to meaningful problems.
-My courses, and non-profit incorporate industry-relevant challenges, social impact projects, and research.
+### Detailed Prompt for "Brain Exercise Songs for Children"
 
-### Collaborative Innovation
-The most significant technological advancements rarely come from individuals working in isolation.
-Teach those who are coming after you.
+```
+I need to generate keywords for my 501(c)(3) nonprofit's Google Ad Grants campaign. We're Humanitarians AI focusing on Lyrical Literacy - a neuroscience-based initiative that uses music to enhance cognitive and language development.
 
-### Ethical AI Development
-Technical skills must be paired with ethical judgment.
+Our campaign is called "Lyrical Literacy - Neural Music Development" with an ad group named "Brain Exercise Songs for Children" that promotes educational songs designed based on neuroscience principles to enhance cognitive development and language acquisition in children.
 
-## Institutional Affiliations
+Please generate at least 50 compliant Google Ad Grants keywords that:
+- Contain 2+ words (no single-word keywords as they violate Google Ad Grants policies)
+- Are specific to our mission (no generic terms)
+- Use a mix of match types (exact, phrase, broad)
+- Are organized by search intent (awareness, consideration, conversion)
+- Directly relate to our nonprofit educational activities
 
-### Northeastern University (Current)
-- INFO 6205: Program Structure Algorithms
-- CSYE 7270: Building Virtual Environments
-- INFO 6105: Data Science Engineering Methods
-- INFO 7390: Advances in Data Sciences and Architecture
-- CSYE 7370: Deep Reinforcement Learning Game Engineering
-- DAMG 6210: Data Management and Database Design
-- INFO 7375: ST: AI Engineering Apps - Prompt Engineering and GenAI
-- CSYE 7374: Special Topics: Computational Skepticism
-- INFO 6210: Data Management and Database Design
-- CSYE 7245: Big Data Systems Integration Analytics
-- DA 5030: Intro Data Mining/Machine Learning
-- CS 3540: Game Programming
-- CS 4300: Computer Graphics
-- CS 4850: Building Game Engines
-- CS 5850: Advanced Building Game Engines
-- DS 6020: Collect/Store/Retrieve Data
-- DS 6030: Intro Data Mining/Machine Learning
-- CS 4800: Algorithms Data
-- ENGR-0201: Organizing Academic Success - AI for Personalized Learning with Claude
-- INFO 7375: Branding and AI
-- CSYE 7374/INFO 7374: Research Methods in Artificial Intelligence
+For context, our mission: "Lyrical Literacy is exercise for the brain. Through tongue twisters, lullabies, and nursery rhymes, we teach language by singing basic vocabulary and survival phrases, engaging multiple brain regions simultaneously to create balanced cognitive development."
+```
 
-### University of California, Los Angeles (UCLA)
-- CS 31: Programming in C++
+## Step 5: Review and Refine First Set of Keywords
 
-### Santa Monica College
-- CS 52: Programming in C++
+When the LLM generates the first set, review them for:
+- Compliance with 501(c)(3) and Google Ad Grants policies
+- Relevance to your mission
+- Specificity (avoid generic terms)
+- Commercial intent (remove any that suggest commercial services)
 
-### Arts Institutes
-- Programming in C++
-- Game Programming
+Ask the LLM to refine any keywords that:
+- Are too generic
+- Could violate Google policies
+- Don't align with your nonprofit mission
 
-### LA Film School
-- Game Programming
+## Step 6: Generate Keywords for Ad Group 2
 
-## Leadership in AI Education Initiatives
+### Detailed Prompt for "Create Your Own Educational Music"
 
-### Humanitarians AI Incorporated
-As founder of this nonprofit organization, I lead the development of AI-driven educational resources.
+```
+I need to generate keywords for my 501(c)(3) nonprofit's Google Ad Grants campaign. We're Humanitarians AI focusing on Lyrical Literacy - a program that leverages AI to create educational music for cognitive development.
 
-### AI Skunkworks
-As an active mentor in AI Skunkworks, I guide students in developing innovative AI-based projects and fostering industry collaborations.
+Our campaign is called "Lyrical Literacy - Neural Music Development" with an ad group named "Create Your Own Educational Music" that promotes tools and resources for creating custom educational music using AI technologies like Suno and Udio.
 
-## Recognition for Educational Innovation
+Please generate at least 50 compliant Google Ad Grants keywords that:
+- Contain 2+ words (no single-word keywords as they violate Google Ad Grants policies)
+- Are specific to our mission (no generic terms)
+- Use a mix of match types (exact, phrase, broad)
+- Are organized by search intent (awareness, consideration, conversion)
+- Directly relate to our nonprofit educational activities
+- Focus on creating/developing educational music with AI
 
-- Dean's Award, College of Engineering, Northeastern University (2024-25)
-- RISE Award, Computer and Information Sciences (2022)
-- Fostering Engineering Innovation in Education Award, Northeastern University (2021-22)
-- Red Hat Academy Director's Award (2020)
+For context, we provide: "AI-powered tools and resources that help users create customized songs tailored to individual learning objectives, cultural contexts, and developmental needs. Our technology uses natural language processing to generate contextually appropriate lyrics and music generation algorithms that create culturally relevant and age-appropriate melodies."
+```
 
-## Impact and Outcomes
+## Step 7: Organize and Validate Keywords
 
-My learning-by-doing approach has yielded measurable improvements in student outcomes, including:
+Once you have both sets of keywords:
 
-- Enhanced student engagement and motivation
-- Improved retention of technical concepts
-- Development of practical skills valued by employers
-- Increased student confidence in tackling complex, ill-defined problems
-- Greater student success in securing internships and employment
-- Growth in student-led research and innovation projects
+1. **Organize by match type:**
+   - Exact match: [brain development songs]
+   - Phrase match: "music for cognitive development"
+   - Broad match: educational songs for children
 
-I remain committed to continuously evolving my teaching methods, embracing new technologies, and creating learning experiences that prepare students not just for the jobs of today, but for the challenges and opportunities of tomorrow.
+2. **Group by search intent:**
+   - Awareness: educational benefits of music
+   - Consideration: brain exercise songs for toddlers
+   - Conversion: free neuroscience-based children's songs
 
+3. **Validate against compliance checklist:**
+   - No single-word keywords ✓
+   - No overly generic terms ✓
+   - Mission-relevant ✓
+   - Minimum 2-3 words each ✓
+   - No commercial intent ✓
+
+## Step 8: Expand Keywords Using LLM Analysis
+
+Ask the LLM to analyze your existing keywords and suggest expansions:
+
+```
+I have these initial keywords for our "Brain Exercise Songs for Children" ad group. Please analyze them and suggest:
+
+1. Long-tail variations (4+ words)
+2. Question-based keywords (how, why, what)
+3. Location-based variations
+4. Age-specific variations
+5. Problem/solution variations
+
+Please ensure all suggestions maintain 501(c)(3) compliance and Google Ad Grants requirements (no single-word terms, no overly generic terms, must be mission-relevant).
+```
+
+## Step 9: Use LLM to Check for Missing Keyword Opportunities
+
+```
+Based on our mission of using neuroscience-based music for cognitive development in children, what keyword themes or categories might I be missing? Please suggest 5 additional keyword categories with 10 example keywords each that would be compliant with Google Ad Grants policies and relevant to our 501(c)(3) mission.
+```
+
+## Step 10: Final Compliance Check and Implementation
+
+Have the LLM perform a final compliance check:
+
+```
+Please review these 100+ keywords for our Google Ad Grants campaign and flag any that might:
+1. Violate Google Ad Grants policies
+2. Be too generic
+3. Not align with our 501(c)(3) mission
+4. Have commercial intent
+5. Be single-word terms
+
+For any flagged keywords, please suggest compliant alternatives.
+```
+
+## Important Tips for Success:
+
+1. **Be specific about your mission** - The more details you provide about your nonprofit's activities, the more relevant the keywords will be
+
+2. **Clearly explain compliance requirements** - Explicitly mention Google Ad Grants policies in your prompts
+
+3. **Iterate and refine** - Ask the LLM to expand on promising keyword categories
+
+4. **Include negative keywords** - Ask the LLM to suggest negative keywords to prevent irrelevant clicks:
+   ```
+   Please suggest 20 negative keywords we should add to our Google Ad Grants campaign to prevent irrelevant clicks and maintain our CTR above 5%.
+   ```
+
+5. **Request keyword organization** - Ask the LLM to structure keywords by:
+   - Search intent
+   - Match type
+   - User journey stage
+   - Specific program areas
+
+By following this process, you can generate well over 100 compliant, relevant keywords for each ad group while maintaining Google Ad Grants 501(c)(3) compliance requirements. This structured approach ensures your keywords directly support your nonprofit mission of using music for cognitive development while maximizing your Google Ad Grants effectiveness.
