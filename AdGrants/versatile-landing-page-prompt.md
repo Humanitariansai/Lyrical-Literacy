@@ -11,6 +11,7 @@ Create a clean, focused React landing page optimized for Google Ads conversion. 
 - NEVER make things up
 - Keep the cotnent focused on the input data
 - Summarize and keep to the point
+- Cut and paste React
 
 ## Technical Requirements
 - Use modern React (functional components, hooks)
