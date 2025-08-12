@@ -48,12 +48,13 @@ The paper should be comprehensive, academic in tone, and include:
 
 Format it as a proper academic survey paper with numbered sections and subsections.
 
+```
 
 # Technical Content Summary Prompt
 
+```
 > **Prompt for Technical Content Summary**: Review the detailed technical content below and create a concise 2-3 paragraph summary that captures the essential information. The summary should maintain technical accuracy while being accessible to a broader audience. Highlight key concepts, methodologies, and findings without oversimplifying. This summary will be used in the hero section of a web page created with our Next.js template, so it should engage the reader and encourage them to explore the full content. Include 1-2 impactful statistics or findings if available. Aim for approximately 150-200 words total.
 
-## How to use
 ```
 
 # Neuroscience-Based Musical Interventions for Cognitive Development in Children: A Comprehensive Survey
