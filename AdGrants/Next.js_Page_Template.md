@@ -18,6 +18,48 @@ This repository contains a reusable page template for Next.js applications. The 
 3. Paste the template code
 4. Customize the content, headings, and links to match your needs
 
+# React Page Generation Prompt
+
+> **Prompt for Creating a Complete React Page**: Using the technical content summary provided below and the Next.js template structure, create a complete, ready-to-use React page component. Replace the placeholder content in the template with relevant information from the summary, maintaining the original template's structure and styling classes. The page should:
+> 
+> 1. Use an appropriate, specific title that reflects the technical content
+> 2. Place the summary in the hero section, breaking it into appropriate paragraphs
+> 3. Create 2-3 meaningful content sections based on key aspects of the technical topic
+> 4. Add relevant bullet points and card content that highlight important information
+> 5. Update the resources section with appropriate links related to the topic
+> 6. Maintain all styling classes and responsive design elements
+> 7. Keep the YouTube embed but update the src attribute if a more relevant video exists
+> 
+> Return a complete, properly formatted React component that's ready to be copied directly into a Next.js project.
+
+## Instructions for Use:
+
+1. First use the "Technical Content Summary Prompt" to generate a summary of your detailed technical content
+2. Copy the summary and paste it after this prompt
+3. Include the Next.js template code (or reference it if already shared)
+4. Use an AI assistant to generate a complete React page component
+5. Copy the generated code into your Next.js project
+6. Make any final adjustments to links, styling, or content as needed
+
+## Format:
+
+```
+TECHNICAL CONTENT SUMMARY:
+[Paste your generated summary here]
+
+TEMPLATE REFERENCE:
+[Next.js template is already shared/available]
+
+Please generate a complete React page component that integrates this summary into the template structure.
+```
+
+## Example:
+
+TECHNICAL CONTENT SUMMARY:
+Music-based cognitive interventions for children leverage the unique properties of musical engagement to enhance neural development. Recent neuroscience research reveals that strategically designed musical experiences strengthen neural pathways associated with language acquisition, memory formation, executive function, and overall brain health. Studies show that children participating in structured musical activities demonstrate significant improvements in phonological awareness, reading skills, and working memory compared to control groups.
+
+These interventions are particularly effective due to music's ability to simultaneo
+
 ## 📄 Template Code
 
 ```jsx
