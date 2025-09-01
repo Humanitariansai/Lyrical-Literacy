@@ -1,6 +1,89 @@
 
 # The Lullaby Composer's Guide: Rules and Principles for Creating Effective Lullabies
 
+I'll create a README update for the Lullabize GPT that properly explains the sources and includes a "Try It" section at the top.
+
+# Lullabize GPT - Create Gentle Lullabies from Any Text
+
+## Try It!
+
+**[Try Lullabize Now](https://chatgpt.com/g/g-68b5f1f612208191a735586516c0d264-lullabize)**
+
+Transform any text or idea into a soothing lullaby with our specialized GPT! Perfect for parents, educators, and creators who want calming songs for children.
+
+### Quick Example:
+
+Try pasting this classic nursery rhyme and asking for a lullaby version with meta tags:
+```
+Pat-a-cake, pat-a-cake, baker's man,
+Bake me a cake as fast as you can;
+Pat it and prick it, and mark it with B,
+And put it in the oven for baby and me.
+```
+
+Source: [Project Gutenberg's The Real Mother Goose](https://www.gutenberg.org/files/39784/39784-h/39784-h.htm)
+
+## About Lullabize
+
+Lullabize transforms your ideas or text into soothing lullabies complete with:
+- Gentle lyrics suitable for helping children relax and sleep
+- Meta tags for music generation platforms (Suno/Udio compatible)
+- Musical style suggestions
+- Visual prompts to bring your lullaby to life
+
+## How It Works
+
+1. Share any text or idea you want transformed
+2. Lullabize creates a calming song with sleep-friendly elements
+3. Get complete lyrics with music generation meta tags
+4. Receive matching visual prompts for each section of the song
+
+## Sources & References
+
+The Lullabize GPT was created based on research in early childhood development, music therapy, and sleep science. The principles used in transforming text follow established guidelines for effective lullabies.
+
+Primary reference material includes:
+- "The Lullaby Composer's Guide: Rules and Principles for Creating Effective Lullabies" - A comprehensive framework for lullaby creation
+- Academic research on infant auditory preferences and sleep associations
+- Traditional lullaby structures from various cultures
+
+## Commands
+
+- **lullabize** - Transform any text into a lullaby (default)
+- **theme** - Create a lullaby on a specific theme (nature, bedtime, etc.)
+- **personalize** - Generate a lullaby that can include a child's name
+- **visualize** - Focus on detailed visual prompts for a lullaby
+- **explain** - Learn about lullaby structure and principles
+- **help** - View all available commands
+
+## Example Outputs
+
+Lullabize creates complete packages including:
+
+1. **Musical Style Recommendations**
+   - Traditional lullaby, Music box melody, Soft piano, etc.
+
+2. **Structured Lyrics with Meta Tags**
+   - Vocal warm-ups with nonsense sounds
+   - Gentle verses with appropriate cadence
+   - Performance notes for tempo, dynamics, and instrumentation
+
+3. **Visual Prompts**
+   - Timestamp-based image descriptions
+   - Lighting, color palette, and art style specifications
+   - Camera perspectives that match the lullaby's mood
+
+4. **Personalization Notes**
+   - How to adapt the lullaby for different situations
+   - Ways to incorporate a child's name or preferences
+
+## Perfect For
+
+- Parents seeking bedtime routines
+- Educators creating calming classroom materials
+- Content creators developing children's media
+- Anyone wanting to transform text into something soothing
+
 ## 1. Acoustic Structure: The Foundation of an Effective Lullaby
 
 ### Melodic Elements
