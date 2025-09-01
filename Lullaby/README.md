@@ -3,7 +3,7 @@
 
 I'll create a README update for the Lullabize GPT that properly explains the sources and includes a "Try It" section at the top.
 
-# Lullabize GPT - Create Gentle Lullabies from Any Text
+# Lullabize GPT - Create Gentle Lullabies and Simple Songs from Any Text
 
 ## Try It!
 
