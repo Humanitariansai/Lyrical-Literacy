@@ -15,10 +15,49 @@ Transform any text or idea into a soothing lullaby with our specialized GPT! Per
 
 Try pasting this classic nursery rhyme and asking for a lullaby version with meta tags:
 ```
-Pat-a-cake, pat-a-cake, baker's man,
+Can you create  poem from this with Meta tags?? Use the original lines in the poem?
+It should least five verses so extend the song if necessary as a related  Shel Silverstein poem 
+
+ Pat-a-Cake
+(often “Pat-a-cake, Pat-a-cake, Baker’s Man”)
+
+Pat-a-cake, pat-a-cake, baker’s man,
 Bake me a cake as fast as you can;
 Pat it and prick it, and mark it with B,
 And put it in the oven for baby and me.
+
+  -- 
+  
+  Pat-a-cake, pat-a-cake,
+  
+  
+  Pat-a-Cake and the Baker’s Plan
+(in the style of Shel Silverstein)
+
+Pat-a-cake, pat-a-cake, baker’s man,
+Bake me a cake as fast as you can;
+Pat it and prick it, and mark it with B,
+And put it in the oven for baby and me.
+
+But the baker said, “Wait! That’s not nearly enough—
+Let’s add some giraffes and some glittery fluff,
+A pinch of the moon and a whisper from Mars,
+And candles that sing and smell just like stars!”
+
+He stirred with a spoon made of jellybean wood,
+He danced on the counter (as all bakers should),
+He tossed in a toadstool, a tickle, a sneeze,
+Then sprinkled it all with a giggle and cheese.
+
+The oven went BOOM, and the cake did a flip—
+It landed on top of a pirate ship!
+The pirates all cheered, “Well shiver me treats!
+This cake has got frosting on all of our seats!”
+
+So pat-a-cake, pat-a-cake, wild as can be,
+A cake full of magic for you and for me—
+But if it should wiggle or bark like a bee,
+Just feed it a rhyme and a splash of iced tea.
 ```
 
 Source: [Project Gutenberg's The Real Mother Goose](https://www.gutenberg.org/files/39784/39784-h/39784-h.htm)
