@@ -158,3 +158,141 @@ Return **only** this structure unless the user calls a different command.
 * Keep these instructions under 8k chars.
 * Put extended pedagogy, examples, and citations in **Musinique\_Composers\_Guide.md** (attached knowledge file).
 * Update styles/looks and IPA maps via small reference docs rather than enlarging this prompt.
+
+## Data Sets
+
+Here’s a concise, build-first checklist of the **data sets** Musinique needs. I grouped them by function and noted key fields + suggested formats so you can stand them up fast.
+
+# Core specs & schemas
+
+1. **Composer Guide (knowledge base)** — the rules you want the model to follow.
+   *Format:* Markdown/PDF. *Fields:* n/a (narrative doc).
+
+2. **SongPack JSON Schema** — canonical structure for any generated song.
+   *Format:* JSON Schema. *Fields:* title, goal, audience, tempo\_bpm, key, meter, styles\[], targets\[], lyrics{chorus, verses\[], bridge?, drill?}, captions, ipa{}, teacher\_note, assessments{}, rights{}, stems\[].
+
+3. **Taxonomies** — controlled vocabularies.
+   *Format:* JSON/CSV. *Fields:* goals, audiences (grades/CEFR), musical\_styles, visual\_styles, activity\_types, drill\_steps.
+
+# Linguistic & L2 assets
+
+4. **Language Typology Table** — stress-/syllable-/mora-/tone classification per language.
+   *Fields:* language, timing\_type, notes.
+
+5. **Phoneme & IPA Maps** — per language phoneme inventory.
+   *Fields:* language, phoneme, ipa, example\_word, mouth\_shape\_ref.
+
+6. **Grapheme–Phoneme Mapping (G2P)** — decoding rules by language.
+   *Fields:* language, grapheme, phoneme/ipa, position\_rules, exceptions.
+
+7. **Minimal Pair Bank** — contrast sets for drills.
+   *Fields:* language, contrast (/r/–/l/), pair\_a, pair\_b, syllable\_pos, frequency, level.
+
+8. **Tongue-Twister Corpus (teach-safe)** — short, contrast-focused lines.
+   *Fields:* language, contrast, line, level, syllable\_count, stress\_pattern.
+
+9. **Collocation Bank (by CEFR/Domain)** — high-utility chunks.
+   *Fields:* language, level, domain, chunk, pattern, example, frequency, register.
+
+10. **Vocabulary Lists (by grade/subject)** — with teachability metadata.
+    *Fields:* word, grade\_band, subject, lemma, concreteness, imageability, frequency, example\_sentence.
+
+11. **Grammar Pattern Frames** — productive templates + minimal pairs.
+    *Fields:* language, pattern\_id, name, frame, constraints, examples\[], common\_errors.
+
+# Concept/fact content
+
+12. **CECE Concept Bank** — Claim–Example–Contrast–Exception per topic.
+    *Fields:* subject, concept\_id, claim, examples\[], contrast, exception, sources.
+
+13. **Process/Sequence Bank** — stepwise procedures.
+    *Fields:* domain, process\_id, steps\[], safety\_notes, common\_pitfalls.
+
+14. **Misconceptions Map** — common errors by topic.
+    *Fields:* subject, misconception, correction, evidence\_link.
+
+# Pedagogy & classroom
+
+15. **Teacher Activity Cards** — Prepare→Present→Practice recipes.
+    *Fields:* goal\_type, audience, materials, steps, timing, variations.
+
+16. **Differentiation Library** — scaffolds & extensions.
+    *Fields:* goal\_type, younger/slower strategies, advanced strategies, tempo/key hints.
+
+17. **Assessment Item Bank** — immediate & delayed checks.
+    *Fields:* goal\_type, item\_id, prompt, expected\_response, rubric\_ref, difficulty.
+
+18. **Rubrics & Norms** — quick rubric + WCPM/fluency norms.
+    *Fields:* metric, level\_descriptors (0–2), norms\_by\_grade (optional).
+
+# Music & audio
+
+19. **Style→Arrangement Heuristics** — how to realize each style.
+    *Fields:* style, tempo\_range, meter\_pref, instrumentation, density\_rules.
+
+20. **Tempo/Meter Guidelines** — by audience & goal.
+    *Fields:* audience, goal, tempo\_min/max, meter, syncopation\_rules.
+
+21. **Original/Public-Domain Melody Motifs** — safe motifs.
+    *Fields:* motif\_id, key, meter, midi\_ref, mood, license.
+
+22. **Chord Progression Library (MIDI)** — teachable, copyright-clean.
+    *Fields:* progression\_id, key, function\_labels, midi\_ref, usage\_notes.
+
+23. **Ostinati & Body-Perc Loops** — classroom anchors.
+    *Fields:* loop\_id, meter, bpm, audio\_ref, pattern\_notation.
+
+24. **Stems Catalog** — vox/drums/keys/bass/harmony.
+    *Fields:* stem\_id, instrument, key, bpm, license, file\_ref.
+
+# Visuals & accessibility
+
+25. **Storyboard Prompt Templates** — per section (chorus/verse/bridge/drill).
+    *Fields:* section, time\_slice, focus, motion\_cue, art\_style, shot, palette.
+
+26. **Icon/Asset Map** — links to safe classroom icons.
+    *Fields:* concept, icon\_ref, license, alt\_text.
+
+27. **Accessibility Profiles** — captions, fonts, contrast presets.
+    *Fields:* profile\_id, font, size, contrast, color\_rules.
+
+# Ops, legal, and help
+
+28. **Rights Ledger** — melodies, stems, art, licenses.
+    *Fields:* asset\_id, type, source, license, attribution, expiry, notes.
+
+29. **Command Examples & Snippets** — tiny demos for each command.
+    *Fields:* command, example\_input, expected\_fields, miniature\_output.
+
+30. **Analytics/Event Schema** — to close the loop.
+    *Fields:* song\_id, command, play\_counts, section\_completions, immediate\_score, delayed\_score, revisions, A/B\_variant.
+
+# Optional alignments & localization
+
+31. **Standards Mapping (CCSS/NGSS/CEFR)** — tag songs to standards.
+    *Fields:* standard\_id, descriptor, goal\_type, grade\_band.
+
+32. **Localization Packs** — translations, romanization, region examples.
+    *Fields:* locale, string\_key, translation, romanization, cultural\_notes.
+
+---
+
+## File/folder layout (suggested)
+
+```
+/knowledge/Musinique_Composers_Guide.md
+/schemas/songpack.schema.json
+/taxonomy/{goals.json, audiences.json, styles.json}
+/linguistics/{ipa_maps.json, g2p_rules.json, minimal_pairs.csv, twisters.csv, collocations.csv, vocab_grade.csv, grammar_frames.json}
+/concepts/{cece_bank.json, processes.json, misconceptions.json}
+/pedagogy/{activity_cards.json, differentiation.json, assessments.json, rubrics.json}
+/music/{style_heuristics.json, tempo_meter.csv, motifs/, progressions/, ostinati/, stems/}
+/visuals/{storyboard_templates.json, icons.csv, accessibility.json}
+/ops/{rights_ledger.csv, analytics_schema.json}
+/examples/commands_examples.md
+/standards/{ccss_map.csv, ngss_map.csv, cefr_map.csv}
+/localization/{en.json, es.json, ja.json, ...}
+```
+
+If you want, I can generate starter CSV/JSON templates for each dataset so your team can begin populating immediately.
+
