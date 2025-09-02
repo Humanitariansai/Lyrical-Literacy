@@ -1,7 +1,7 @@
 
 # The Lullaby Composer's Guide: Rules and Principles for Creating Effective Lullabies
 
-I'll create a README update for the Lullabize GPT that properly explains the sources and includes a "Try It" section at the top.
+We created a custom GPT to do this [https://lullabize.humanitarians.ai/](https://lullabize.humanitarians.ai/)
 
 # Lullabize GPT - Create Gentle Lullabies and Simple Songs from Any Text
 
